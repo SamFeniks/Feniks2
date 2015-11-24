@@ -1,11 +1,12 @@
-﻿using System;
+﻿//for anyone looking at this script like wtf is dis; just testing github
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
 // Namespace
-namespace JerrysCoolAppCode
+namespace Samscoolcode
 {
     // Class (contains functionality)
     class Program
@@ -20,7 +21,7 @@ namespace JerrysCoolAppCode
 
             if (keyInfo.KeyChar == 'a')
             {
-                Console.WriteLine("That is not a number! KNOCK IT OFF NOW!");
+                Console.WriteLine("That is not a number, you idiot");
             }
             else
             {
