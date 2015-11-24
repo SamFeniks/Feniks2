@@ -1,3 +1,0 @@
-# Feniks
-# KAPPAKAPPAKAPPA
-# Feniks2
